@@ -4,29 +4,29 @@ import '@/styles/globals.css';
 import '@/styles/fonts.css';
 
 export const metadata: Metadata = {
-  title: 'VNSH Laser Strike System + FREE Holster!',
-  description: 'Laser Strike System + FREE Holster!',
+  title: 'VNSH Laser Strike System + FREE Gray Holster!',
+  description: 'Laser Strike System + FREE Gray Holster!',
   icons: {
     icon: '/favicon.png',
     apple: '/favicon.png',
   },
   openGraph: {
-    title: 'VNSH Laser Strike System + FREE Holster!',
-    description: 'Laser Strike System + FREE Holster!',
+    title: 'VNSH Laser Strike System + FREE Gray Holster!',
+    description: 'Laser Strike System + FREE Gray Holster!',
     type: 'website',
     images: [
       {
         url: '/favicon.png',
         width: 512,
         height: 512,
-        alt: 'VNSH Laser Strike System + FREE Holster!',
+        alt: 'VNSH Laser Strike System + FREE Gray Holster!',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'VNSH Laser Strike System + FREE Holster!',
-    description: 'Laser Strike System + FREE Holster!',
+    title: 'VNSH Laser Strike System + FREE Gray Holster!',
+    description: 'Laser Strike System + FREE Gray Holster!',
     images: ['/favicon.png'],
   },
 };
