@@ -38,13 +38,13 @@ const PackageSelection: React.FC = () => {
               <ul className="list-none p-0 m-0">
                 <li className="flex items-start bg-black text-white px-3 py-0.5 rounded mb-2">
                   <span className="text-white mr-2 text-base">+</span>
-                  <span className="text-base">FREE VNSH Holster - Camo</span>
+                  <span className="text-base">FREE VNSH Holster - Gray</span>
                 </li>
               </ul>
             </div>
             <div className="mt-auto">
               <a
-                href={getCheckoutUrl('https://secure.vnsh.com/vnlsfchgbbtrnhy/starter-checkout')}
+                href={getCheckoutUrl('https://secure.vnsh.com/vnlsfghgbbtrnhy/starter-checkout')}
                 target="_self"
                 rel="noopener noreferrer"
                 className="block w-full"
@@ -106,7 +106,7 @@ const PackageSelection: React.FC = () => {
                 </li>
                 <li className="flex items-start bg-black text-white px-3 py-0.5 rounded mb-2">
                   <span className="text-white mr-2 text-base">+</span>
-                  <span className="text-base">FREE VNSH Holster - Camo</span>
+                  <span className="text-base">FREE VNSH Holster - Gray</span>
                 </li>
                 <li className="flex items-start bg-black text-white px-3 py-0.5 rounded mb-2">
                   <span className="text-white mr-2 text-base">+</span>
@@ -121,7 +121,7 @@ const PackageSelection: React.FC = () => {
 
             <div className="mt-auto">
               <a
-                href={getCheckoutUrl('https://secure.vnsh.com/vnlsfchgbbtrnhy/advanced-checkout')}
+                href={getCheckoutUrl('https://secure.vnsh.com/vnlsfghgbbtrnhy/advanced-checkout')}
                 target="_self"
                 rel="noopener noreferrer"
                 className="block w-full"
@@ -186,14 +186,14 @@ const PackageSelection: React.FC = () => {
                 </li>
                 <li className="flex items-start bg-black text-white px-3 py-0.5 rounded">
                   <span className="text-white mr-2 text-base">+</span>
-                  <span className="text-base">FREE VNSH Holster - Camo</span>
+                  <span className="text-base">FREE VNSH Holster - Gray</span>
                 </li>
               </ul>
             </div>
 
             <div className="mt-auto">
               <a
-                href={getCheckoutUrl('https://secure.vnsh.com/vnlsfchgbbtrnhy/enhanced-checkout')}
+                href={getCheckoutUrl('https://secure.vnsh.com/vnlsfghgbbtrnhy/enhanced-checkout')}
                 target="_self"
                 rel="noopener noreferrer"
                 className="block w-full"

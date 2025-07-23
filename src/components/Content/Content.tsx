@@ -298,8 +298,8 @@ const Content: React.FC = () => {
           </div>
           <div className="w-full md:w-[85%] mx-auto max-w-[1120px] px-0 md:px-0 md:py-5">
             <Image
-              src="/contentimages/VNSH-BlackHolster-BlockImages-V2-Desktop.webp"
-              alt="VNSH Black Holster"
+              src="/contentimages/VNSH-GrayHolster-BlockImages-V2-Desktop.webp"
+              alt="VNSH Gray Holster"
               className="w-full h-auto"
               width={1120}
               height={600}
